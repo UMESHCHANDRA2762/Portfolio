@@ -1,6 +1,6 @@
 import React from 'react';
-import logo from "../assets/logo.jpg";
-import { FaGithub, FaInstagram, FaLinkedin, FaTwitter } from 'react-icons/fa';
+import logo from "../assets/logo.webp";
+import { FaGithub, FaLinkedin} from 'react-icons/fa';
 
 const Navbar = () => {
   return (
