@@ -8,6 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
+      "postinstall": "npm install framer-motion"
   },
   "dependencies": {
     "icons": "^1.0.0",
