@@ -39,7 +39,7 @@ export const PROJECTS = [
     image: project2,
     description:
       "A comprehensive Student Management System built using Next.js and React.js, designed for scalability and ease of use. The application supports efficient student data management with robust backend integration, dynamic frontend features, and seamless real-time updates for an enhanced user experience.",
-    technologies: ["Next.js","Typescript","Prisma","Mysql","HTML","Tailwand CSS"],
+    technologies: ["Next.js","Typescript","Prisma","Mysql","Tailwand CSS"],
   },
   {
     title: "Portfolio Website",

@@ -28,7 +28,7 @@ const Hero = () => {
             <motion.div
               initial={{ x: 100, opacity: 0 }}
               animate={{ x: 0, opacity: 1 }}
-              transition={{ duration: 1, delay: 1.5 }}
+              transition={{ duration: 1, delay: 0.5 }}
             >
               <img
                 src={ProfilePic}
