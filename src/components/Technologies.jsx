@@ -41,7 +41,7 @@ const Technologies = () => {
             animate="animate"
             variants={iconVariants(2.5)}
             className="p-4">
-             <TbBrandNextjs className="text-7xl" />
+             <TbBrandNextjs className="text-7xl "  />
             </motion.div>
             <motion.div 
             initial="initial"

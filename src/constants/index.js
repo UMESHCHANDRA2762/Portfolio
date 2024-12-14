@@ -4,7 +4,12 @@ import project3 from "../assets/projects/project-3.webp";
 
 
 export const HERO_CONTENT = `
-I am a web developer with expertise in React.js, Next.js, and Node.js, creating dynamic and responsive web solutions. My focus is on blending functionality with design to deliver user-centric experiences. I excel in building scalable systems and integrating seamless backend functionality. With a passion for innovation, I strive to craft unique digital products. My work reflects attention to detail, technical precision, and creative problem-solving. I aim to transform ideas into impactful solutions that engage and inspire.`;
+I am a web developer with expertise in React.js, Next.js, and Node.js, creating dynamic and responsive web solutions. 
+My focus is on blending functionality with design to deliver user-centric experiences. 
+I excel in building scalable systems and integrating seamless backend functionality. 
+With a passion for innovation, I strive to craft unique digital products. 
+My work reflects attention to detail, technical precision, and creative problem-solving. 
+I aim to transform ideas into impactful solutions that engage and inspire.`
 
 
 

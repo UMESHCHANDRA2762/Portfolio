@@ -1,15 +1,22 @@
 import React from 'react';
 import logo from "../assets/logo.webp";
-import { FaGithub, FaLinkedin} from 'react-icons/fa';
+import { FaGithub, FaLinkedin } from 'react-icons/fa';
 
 const Navbar = () => {
   return (
-    <nav className="flex items-center justify-between py-1">
+    <nav className="flex items-center justify-between py-4 px-6">
+      {/* Logo Section */}
       <div className="flex flex-shrink-0 items-center">
         <a href="/" aria-label="Home">
-          <img src={logo} className="mx-2" width={50} height={33} alt="logo" />
+          <img
+            src={logo}
+            className="mx-2 w-12 h-auto"
+            alt="logo"
+          />
         </a>
       </div>
+
+      {/* Social Media Links */}
       <div className="m-8 flex items-center justify-center gap-4 text-2xl">
         <a
           href="https://www.linkedin.com/in/teegala-umesh-chandra/"
